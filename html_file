@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="utf-8" />
+
+    <title>Contact | dr hab. Janusz Szwabiński</title>
+            <meta name="description" content="Janusz Szwabiński's home page">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" />
+    <link rel="stylesheet" href="http://prac.im.pwr.wroc.pl/~szwabin/themes/default/style.css" type="text/css" />
+
+    <script src="http://prac.im.pwr.wroc.pl/~szwabin/themes/default/scripts/modernizr-2.6.1.min.js"></script>
+</head>
+<body>
+
+    <header id="header">
+        <div class="inner clearfix">
+            <h1><a href="http://prac.im.pwr.wroc.pl/~szwabin/index" id="logo">dr hab. Janusz Szwabiński</a></h1>
+            <nav>
+                <a href="#" class="menu-icon"></a>
+                <ul>
+                                            <li class="active">
+                            <a href="http://prac.im.pwr.wroc.pl/~szwabin/index">Contact</a>
+                        </li>
+                                            <li>
+                            <a href="http://prac.im.pwr.wroc.pl/~szwabin/research/index">Research</a>
+                        </li>
+                                            <li>
+                            <a href="http://prac.im.pwr.wroc.pl/~szwabin/teaching/index">Teaching activities</a>
+                        </li>
+                                    </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="content">
+        <div class="inner">
+            <h3>Office hours for students</h3>
+<ul>
+<li>Wednesday: 14:45 pm - 16:45 pm</li>
+<li>Friday: 9:15 am - 11:15 am</li>
+<li><strong>preferably make an appointment via email</strong>, providing details of your problem </li>
+</ul>
+<h3>Contact</h3>
+<ul>
+<li>office: 5.16, C-11</li>
+<li>phone: + 48 71 320 3184 </li>
+<li>fax: +48 71 328 07 51</li>
+<li>email: <strong>janusz.szwabinski@pwr.edu.pl</strong></li>
+</ul>
+<h3>Address</h3>
+<p><a href="http://wmat.pwr.edu.pl/index.dhtml">Faculty of Pure and Applied Mathematics</a> <br/>
+<a href="http://pwr.edu.pl/">Wrocław University of Science and Technology</a><br/>
+Wyb. Wyspiańskiego 27<br/>
+50-370 Wrocław, Poland<br/></p>
+        </div>
+    </section>
+
+    <footer id="footer">
+        <div class="inner">
+            &copy; 2016 Janusz Szwabiński. Proudly powered by <a href="http://picocms.org/">Pico</a>.<br/>
+            <a href="http://picocms.org/">Pico</a> was made by <a href="http://gilbert.pellegrom.me">Gilbert Pellegrom</a>
+            and is maintained by <a href="https://github.com/picocms/Pico/graphs/contributors">The Pico Community</a>.
+            Released under the <a href="https://github.com/picocms/Pico/blob/master/LICENSE.md">MIT license</a>.
+        </div>
+    </footer>
+
+</body>
+</html>
+
